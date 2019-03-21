@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### A link
 
 [About](about.html)
+Thank you.
